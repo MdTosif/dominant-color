@@ -1,0 +1,14 @@
+{
+  "name": "rst-dom-color",
+  "version": "0.1.0",
+  "files": [
+    "rst_dom_color_bg.wasm",
+    "rst_dom_color.js",
+    "rst_dom_color.d.ts"
+  ],
+  "module": "rst_dom_color.js",
+  "types": "rst_dom_color.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
